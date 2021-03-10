@@ -1,2 +1,0 @@
-# wenbo
-yuwenbo.com
